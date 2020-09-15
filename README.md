@@ -1,3 +1,4 @@
 # jsCourse
-Modern Javascript course
-Test Version
+Modern Javascript course\n
+Test Version\n
+Test commit
